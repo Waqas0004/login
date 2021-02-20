@@ -1,0 +1,23 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    background-color: blue;
+    color: cornsilk;
+    height: 100vh;
+    display: flex;
+}
+.box {
+    width: 60vh
+    overflow
+}
+.box{
+    width: 60vw;
+    overflow: hidden;
+    margin: auto;
+    background-color: darkred;
+    padding: 30%;
+    border-radius: 20px;
+}
